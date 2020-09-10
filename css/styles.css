@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: #ffffff;
+}
+
+.title {
+  position: fixed;
+  width: 100%;
+  display: flex;
+  background-color: #000000;
+}
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+  color: #ff5a5a;
+  width:30%;
+  margin:auto;
+  text-align:center;
+  padding: 10px;
+  background-color: #6e0707;
+}
